@@ -5,12 +5,12 @@
       <connection>scm:git:https://github.com/avldez/intro-maven.git/</connection>
       <developerConnection>scm:git:https://github.com/avldez/intro-maven.git/</developerConnection>
       <url>https://github.com/avldez/intro-maven</url>
-    <tag>gswm-1.0.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <groupId>com.apress.gswmbook</groupId>
   <artifactId>gswm</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>Getting Started with Maven</name>
